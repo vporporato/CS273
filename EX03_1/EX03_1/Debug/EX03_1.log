@@ -1,0 +1,5 @@
+﻿  main.cpp
+\\cs1\2018\vporporato18\cs273-1\hw 3\ex03_1\ex03_1\ex03_1\main.cpp(26): warning C4101: 'e': unreferenced local variable
+\\cs1\2018\vporporato18\cs273-1\hw 3\ex03_1\ex03_1\ex03_1\main.cpp(31): warning C4101: 'e': unreferenced local variable
+  EX03_1.vcxproj -> \\cs1\2018\vporporato18\CS273-1\HW 3\EX03_1\EX03_1\Debug\EX03_1.exe
+  EX03_1.vcxproj -> \\cs1\2018\vporporato18\CS273-1\HW 3\EX03_1\EX03_1\Debug\EX03_1.pdb (Full PDB)
