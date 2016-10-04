@@ -1,0 +1,4 @@
+﻿  readint.cpp
+\\cs1\2018\vporporato18\cs273-1\hw 3\ex03_02\ex03_1\ex03_1\readint.cpp(30): warning C4101: 'ex': unreferenced local variable
+\\cs1\2018\vporporato18\cs273-1\hw 3\ex03_02\ex03_1\ex03_1\readint.cpp(38): warning C4101: 'ex': unreferenced local variable
+  EX03_1.vcxproj -> \\cs1\2018\vporporato18\CS273-1\HW 3\EX03_02\EX03_1\Debug\EX03_1.lib
