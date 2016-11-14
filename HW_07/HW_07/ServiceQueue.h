@@ -79,9 +79,9 @@ public:
 				HINT: You can use my_random.next_int(n) to get a random value between 0 and n.  This will help
 				you determine a random number within the range of service times.
 				*/
-				do {
-					plane->service_time = my_random.next_int(max_service_time);
-				} while (plane->service_time >= min_service_time);
+				int service_range = max_service_time - min_service_time;
+				plane->service_time = my_random.next_int(service_range);
+				plane->service_time += min_service_time;
 
 
 				// FIXME:done add the plane to the service queue
