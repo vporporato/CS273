@@ -1,0 +1,5 @@
+﻿  main.cpp
+\\cs1\2018\vporporato18\cs273-1\hw 8\ex8_02 eight-queens problem\ex8_02\ex8_02\main.cpp(25): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2018\vporporato18\cs273-1\hw 8\ex8_02 eight-queens problem\ex8_02\ex8_02\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  EX8_02.vcxproj -> \\cs1\2018\vporporato18\CS273-1\HW 8\EX8_02 Eight-Queens problem\EX8_02\Debug\EX8_02.exe
+  EX8_02.vcxproj -> \\cs1\2018\vporporato18\CS273-1\HW 8\EX8_02 Eight-Queens problem\EX8_02\Debug\EX8_02.pdb (Full PDB)
