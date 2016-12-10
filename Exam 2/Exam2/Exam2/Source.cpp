@@ -4,6 +4,17 @@
 *
 * @authors Everyone!
 */
+
+/*
+Dinner Party add, list, remove          27/30 -- need try/catch for push_front
+                                            -- a for loop would be cleaner for the list()
+BirthdayParty                           20/20 -- Comments shouldn't contain DinnerParty (copy/paste)
+BirthdayPartyTicket                     20/20
+PartyFactory::factory                   10/10
+Well-designed and commented code        17/20
+
+TOTAL                                   94/100
+*/
 #include <iostream>
 #include <string>
 #include "Party.h"
